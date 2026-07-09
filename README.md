@@ -1,8 +1,11 @@
-<h1 Hi 👋, I'm Pragati Vishwakarma</h1>
+<h1>Hi 👋, I'm Pragati Vishwakarma</h1>
+
+<h3>AI Engineer | Generative AI | Machine Learning | Python Developer</h3>
 
 # About Me:
-Building intelligent solutions at the intersection of **AI, Machine Learning, Data Science, and Software Engineering**.<br>Passionate about transforming complex challenges into scalable, real-world applications through innovation and clean code.<br>Driven by continuous learning, impactful problem-solving, and creating technology that delivers measurable value.<br>Open to opportunities where I can learn, innovate, and contribute to the future of intelligent systems.<br>
-
+<p>
+Passionate about designing AI-powered applications using LLMs, AI Agents, MCP, and RAG. Always eager to learn emerging technologies, solve meaningful problems, and build software that creates real-world impact.
+</p>
 
 # **Socials**:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/fPv5PVBKG) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pragati-vishwakarma-9b2621307/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Pragati Vishwakarma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pragativ027@gmail.com) 
