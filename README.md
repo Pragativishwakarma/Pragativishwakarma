@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pragati Vishwakarma</h1>
+<h1 Hi 👋, I'm Pragati Vishwakarma</h1>
 
 # About Me:
 Building intelligent solutions at the intersection of **AI, Machine Learning, Data Science, and Software Engineering**.<br>Passionate about transforming complex challenges into scalable, real-world applications through innovation and clean code.<br>Driven by continuous learning, impactful problem-solving, and creating technology that delivers measurable value.<br>Open to opportunities where I can learn, innovate, and contribute to the future of intelligent systems.<br>
@@ -13,8 +13,6 @@ Building intelligent solutions at the intersection of **AI, Machine Learning, Da
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Pragativishwakarma&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Pragativishwakarma&theme=dark&hide_border=true)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pragativishwakarma&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
