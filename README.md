@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pragati Vishwakarma</h1>
-<h3 align="center">Building intelligent solutions at the intersection of AI, Machine Learning, Data Science & Software Engineering</h3>
-<p align="center">
-Passionate about transforming complex challenges into scalable, real-world applications through innovation and clean code.<br/>
-Driven by continuous learning, impactful problem-solving, and creating technology that delivers measurable value.<br/>
-Open to opportunities where I can learn, innovate, and contribute to the future of intelligent systems.
-</p>
 
 # About Me:
 Building intelligent solutions at the intersection of **AI, Machine Learning, Data Science, and Software Engineering**.<br>Passionate about transforming complex challenges into scalable, real-world applications through innovation and clean code.<br>Driven by continuous learning, impactful problem-solving, and creating technology that delivers measurable value.<br>Open to opportunities where I can learn, innovate, and contribute to the future of intelligent systems.<br>
